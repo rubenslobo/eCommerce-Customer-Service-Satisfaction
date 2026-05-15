@@ -1,4 +1,4 @@
-# eCommerce Customer Service Satisfaction Score Analysis & Prediction
+# 🛒 eCommerce Customer Service Satisfaction Score Analysis & Prediction
 
 ## 📌 Project Overview
 Customer service quality is a key driver of customer retention and brand loyalty in e-commerce platforms.  
