@@ -122,4 +122,4 @@ This project demonstrates how data analysis and machine learning can:
 - Enable proactive customer support
 - Reduce churn
 - Support data-driven business decisions
-This project focuses on predicting Customer Satisfaction (CSAT) scores using Deep L
+This project focuses on predicting Customer Satisfaction (CSAT) scores using Deep Learning
